@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.TEST }}
         with:
-          USERNAME: ${{ starbors }}
+          USERNAME: starbors
